@@ -126,22 +126,32 @@ export const skills = [
     ],
   },
   {
-    title: "Android",
+    title: "Deployment and DevOps",
     skills: [
       {
-        name: "Java",
+        name: "AWS",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png",
       },
       {
-        name: "XML",
+        name: "GCP",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://tse3.mm.bing.net/th/id/OIP.LfyHsnc07gEesmMC_8RlIQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
       },
       {
-        name: "Android Studio",
+        name: "Docker",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://tse2.mm.bing.net/th/id/OIP.kY-iKNMB6IHDzoeQlMW3fAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      },
+      {
+        name: "Kubernetes",
+        image:
+          "https://th.bing.com/th/id/R.69f90ad5d78474992e3772219f3bb32a?rik=VGzo45bFQ1q%2fqg&riu=http%3a%2f%2fwww.thagomizer.com%2fimg%2fkubernetes-logo.png&ehk=DPQlhZMbU37ry5cONpZfEIcP8zLMGN7lywpqaNeJ63s%3d&risl=&pid=ImgRaw&r=0",
+      },
+      {
+        name: "Jenkins",
+        image:
+          "https://tse3.mm.bing.net/th/id/OIP.2zf3I6tzsRLosmxAk0oMygHaFG?rs=1&pid=ImgDetMain&o=7&rm=3",
       },
     ],
   },
@@ -162,6 +172,11 @@ export const skills = [
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      },
+      {
+        name: "Google Colab",
+        image:
+          "https://tse3.mm.bing.net/th/id/OIP.laYIzRY2A-jpnBA2rO2jSQHaEj?rs=1&pid=ImgDetMain&o=7&rm=3",
       },
       {
         name: "Adobe XD",
