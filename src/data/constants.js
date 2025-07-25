@@ -6,14 +6,15 @@ import Rideme from "../images/Rideme.png";
 export const Bio = {
   name: "Megha Chatur",
   roles: [
-    "Software Developer",
+    "Software Engineer",
+    "Java Developer",
     "UI/UX Designer",
     "Programmer",
   ],
   description:
     "I am An Innovative and Goal-oriented Computer Engineer with a strong foundation in Software Development and project management. Passionate about tackling challenging problems, and eager to contribute to impactful projects that drive innovation. Excited to learn and grow while solving real-world challenges!",
   github: "https://github.com/MeghaChatur",
-  resume: "https://drive.google.com/file/d/1xvvYCwGtLvzYJgQMlU512Y025NGl3BL_/view?usp=drivesdk",
+  resume: "https://drive.google.com/file/d/1cYtZB14j7LsA7HPfJkTBnsqxwGuixHKL/view?usp=sharing",
   linkedin: "https://linkedin.com/in/meghachatur",
   insta: "https://www.instagram.com/meghac_20/",
 };
